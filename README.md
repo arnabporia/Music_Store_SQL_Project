@@ -1,10 +1,9 @@
 # Music Store Data Analysis Using SQL
 
-## Database and Tools
-
 ## Overview
 This project involves a comprehensive analysis of Music  data using SQL. The goal is to extract valuable insights and answer various  questions based on the dataset. 
 
+## Database and Tools
 * Postgre SQL
 * PgAdmin4
   
